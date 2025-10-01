@@ -6,7 +6,8 @@
 -	Научиться обрабатывать параметры запроса (query, path), тело запроса (JSON/form-data) и формировать корректные ответы (код статуса, заголовки, JSON).
 -	Научиться базовому логированию запросов и обработке ошибок.
 ## Структура проекта
-<img width="414" height="684" alt="изображение" src="https://github.com/user-attachments/assets/098f963d-1b7b-451e-ae0b-8820ad55e73f" />
+<img width="413" height="517" alt="изображение" src="https://github.com/user-attachments/assets/749444b0-d23a-4037-b03c-61c2718809b9" />
+
 ## Запуск проекта
 # стандартный запуск
 go run .\cmd\server
