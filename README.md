@@ -45,6 +45,8 @@ $env:PORT="9090"; go run .\cmd\server
 ### 7. Удаление 
 
    <img width="1124" height="529" alt="изображение" src="https://github.com/user-attachments/assets/b6d49613-08af-4fab-9f4c-515d221175cd" /> 
+
+   Проверка, что всё удалено 
    
    <img width="789" height="61" alt="изображение" src="https://github.com/user-attachments/assets/10cc7fc8-ff07-4418-a5bc-a28d71875e11" /> 
    
