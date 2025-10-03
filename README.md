@@ -22,11 +22,11 @@ $env:PORT="9090"; go run .\cmd\server
 
    <img width="800" height="61" alt="изображение" src="https://github.com/user-attachments/assets/9b4b0362-c80c-4c6d-9cc3-ae22e825fa5d" /> 
    
-### 2. Создание задачи 
+### 2. Создание задачи /tasks -POST
 
    <img width="1108" height="739" alt="изображение" src="https://github.com/user-attachments/assets/48f63da1-6369-4db3-ade4-b4339df3c2a3" /> 
    
-### 3. Список задач 
+### 3. Список задач /tasks
 
    <img width="777" height="55" alt="изображение" src="https://github.com/user-attachments/assets/e19048f5-9130-40a5-b0a0-992c05f93026" /> 
    
@@ -49,12 +49,24 @@ $env:PORT="9090"; go run .\cmd\server
    Проверка, что всё удалено 
    
    <img width="789" height="61" alt="изображение" src="https://github.com/user-attachments/assets/10cc7fc8-ff07-4418-a5bc-a28d71875e11" /> 
-   
 
+### 8. Логи во время выполнения запросов 
 
+<img width="1081" height="398" alt="изображение" src="https://github.com/user-attachments/assets/bac0b2b5-8430-4691-aed9-9ed9469d5a61" /> 
 
+### 9. Запуск и прохождение юнит тестов 
 
+<img width="898" height="677" alt="изображение" src="https://github.com/user-attachments/assets/f20c5c6c-7fa4-4807-9b38-2c8fde8216d5" /> 
 
+### 10. Ошибки 
+
+ Неверный id 
+
+ <img width="873" height="55" alt="изображение" src="https://github.com/user-attachments/assets/f0afa88b-551f-4a25-bd35-6c1723662183" /> 
+
+ Короткий title
+
+<img width="1116" height="142" alt="изображение" src="https://github.com/user-attachments/assets/e99ca42d-31b6-4792-a4a9-7a5433ffaf8e" /> 
 
 
 
