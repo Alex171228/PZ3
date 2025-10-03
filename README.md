@@ -68,6 +68,15 @@ $env:PORT="9090"; go run .\cmd\server
 
 <img width="1116" height="142" alt="изображение" src="https://github.com/user-attachments/assets/e99ca42d-31b6-4792-a4a9-7a5433ffaf8e" /> 
 
+## Набор тестовых запросов 
+
+<img width="772" height="746" alt="изображение" src="https://github.com/user-attachments/assets/2bc315b0-117c-48a3-8e4d-e2820ac4351f" /> 
+
+<img width="716" height="745" alt="изображение" src="https://github.com/user-attachments/assets/79c1166c-a1c5-430a-bc3c-ae0074ee5286" /> 
+
+<img width="463" height="310" alt="изображение" src="https://github.com/user-attachments/assets/f86f1c42-414a-42f7-9c2e-a98ca703fcf1" />
+
+
 
 
 
