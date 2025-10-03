@@ -9,11 +9,12 @@
 <img width="413" height="517" alt="изображение" src="https://github.com/user-attachments/assets/749444b0-d23a-4037-b03c-61c2718809b9" />
 
 ## Запуск проекта
-# стандартный запуск
+## стандартный запуск
 go run .\cmd\server
 
-# запуск на другом порту
+## запуск на другом порту
 $env:PORT="9090"; go run .\cmd\server
 
-# или через build.ps1
+## или через build.ps1
 .\build.ps1 -Port 9090
+
