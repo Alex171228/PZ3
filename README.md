@@ -68,7 +68,7 @@ $env:PORT="9090"; go run .\cmd\server
 
 <img width="1116" height="142" alt="изображение" src="https://github.com/user-attachments/assets/e99ca42d-31b6-4792-a4a9-7a5433ffaf8e" /> 
 
-## Набор тестовых запросов 
+## Набор тестовых запросов (requests.md) 
 
 <img width="772" height="746" alt="изображение" src="https://github.com/user-attachments/assets/2bc315b0-117c-48a3-8e4d-e2820ac4351f" /> 
 
